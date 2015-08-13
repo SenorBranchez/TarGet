@@ -33,6 +33,7 @@
         <activity
             android:name=".ShootingActivity"
             android:label="@string/title_activity_shooting" >
+
         </activity>
         <activity
             android:name=".EntryActivity"
